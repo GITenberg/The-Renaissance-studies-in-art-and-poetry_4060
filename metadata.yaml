@@ -1,0 +1,38 @@
+_repo: The-Renaissance-studies-in-art-and-poetry_4060
+creator:
+  author:
+    agent_name: Pater, Walter
+    aliases:
+    - Pater, Walter Horatio
+    - Pater, Walter H. (Walter Horatio)
+    birthdate: 1839
+    deathdate: 1894
+    gutenberg_agent_id: '1367'
+    url: http://www.gutenberg.org/2009/agents/1367
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
+description: 'Contents; List of Illustrations; Editor''s Preface; Textual Corrections
+  and Emendations; The Renaissance; Preface; Two Early French Stories; Pico della
+  Mirandola; Sandro Botticelli; Luca della Robbia; The Poetry of Michelangelo; Leonardo
+  da Vinci; The School of Giorgione; Joachim du Bellay; Winckelmann; Conclusion; Pater''s
+  Review of Children in Italian and English Design; Pater''s Review of Renaissance
+  in Italy: The Age of the Despots; A Pater Chronology; Textual Notes; Critical and
+  Explanatory Notes; Original Texts of Passages Translated in the Notes; Index.'
+gutenberg_bookshelf: Art
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Renaissance -- Italy'
+- !lcsh 'Arts, Renaissance'
+- !lcsh 'Renaissance'
+- !lcc 'NX'
+tableOfContents: Preface -- Two early French stories -- Pico della Mirandola -- Sandro
+  Botticelli -- Luca della Robbia -- The poetry of Michelangelo -- Leonardo da Vinci
+  -- The school of Giorgione -- Joachim du Bellay -- Winckelmann -- Conclusion.
+title: 'The Renaissance: studies in art and poetry'
+url: http://www.gutenberg.org/ebooks/4060
