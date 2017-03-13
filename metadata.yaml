@@ -1,5 +1,8 @@
 _repo: The-Renaissance-studies-in-art-and-poetry_4060
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pater, Walter
@@ -18,6 +21,8 @@ description: 'Contents; List of Illustrations; Editor''s Preface; Textual Correc
   Review of Children in Italian and English Design; Pater''s Review of Renaissance
   in Italy: The Age of the Despots; A Pater Chronology; Textual Notes; Critical and
   Explanatory Notes; Original Texts of Passages Translated in the Notes; Index.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4060#The-Renaissance-studies-in-art-and-poetry
 gutenberg_bookshelf: Art
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
