@@ -1,5 +1,5 @@
 _repo: The-Renaissance-studies-in-art-and-poetry_4060
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,6 +37,7 @@ subjects:
 - !lcsh 'Arts, Renaissance'
 - !lcsh 'Renaissance'
 - !lcc 'NX'
+- GITenberg
 tableOfContents: Preface -- Two early French stories -- Pico della Mirandola -- Sandro
   Botticelli -- Luca della Robbia -- The poetry of Michelangelo -- Leonardo da Vinci
   -- The school of Giorgione -- Joachim du Bellay -- Winckelmann -- Conclusion.
